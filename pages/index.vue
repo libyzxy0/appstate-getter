@@ -108,7 +108,7 @@ const handleCopy = async (btn: string): Promise<void> => {
       <FormItem>
         <FormLabel>Email/Username/Link</FormLabel>
         <FormControl>
-          <Input class="py-5" type="text" placeholder="pangetako@gmail.com" v-bind="componentField" />
+          <Input class="py-5" type="text" placeholder="serofukuu@gmail.com" v-bind="componentField" />
         </FormControl>
         <FormMessage />
       </FormItem>
@@ -118,7 +118,7 @@ const handleCopy = async (btn: string): Promise<void> => {
       <FormItem class="mt-3">
         <FormLabel>Password</FormLabel>
         <FormControl>
-          <Input class="py-5" type="password" placeholder="pogiko123" v-bind="componentField" />
+          <Input class="py-5" type="password" placeholder="bowlbowl" v-bind="componentField" />
         </FormControl>
         <FormMessage />
       </FormItem>
@@ -140,7 +140,7 @@ const handleCopy = async (btn: string): Promise<void> => {
   
   </div>
   <footer class="relative flex items-center bottom-0 pt-10 pb-10 justify-center w-full">
-    <p class="text-gray-400 dark:text-gray-600 text-center text-md">© Copyright 2024, <a class="text-sky-300 hover:underline" href="https://libyzxy0.com">libyzxy0</a> Allrights reserved.</p>
+    <p class="text-gray-400 dark:text-gray-600 text-center text-md">© Copyright 2024, <a class="text-sky-300 hover:underline" href="https://serofuku.vercel.app/">serofukuu</a> Allrights reserved.</p>
   </footer>
   </div>
   <Toaster />
